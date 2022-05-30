@@ -1,0 +1,120 @@
+html * {
+	background-color: #212121 !important;
+}
+
+body *{
+	background-color: #212121 !important;
+	color: #fff !important;
+}
+.header-hero-wrapper{
+	background-color: transparent !important;
+	
+}
+.header-hero-left {
+	background-color: transparent !important;
+	
+}
+.header-user-search-lang-wrapper div.header-user-menu .sign-up, div.header-user-menu .sign-in, div.lia-common-slide-menu .sign-up, div.lia-common-slide-menu .sign-in{
+color: lightgreen !important;
+}
+div.header-user-menu a.sign-in{
+color: lightgreen !important;
+}
+.lia-component-kudos-widget-button .lia-button-image-kudos-give .kudos-link:before{
+	color: lightgreen !important;
+}
+.sub-arrow{
+	display: none !important
+}
+body#lia-body::after{
+	background-color: #212121 !important;
+}
+.blocks__item-body-description{
+	color: #fff !important
+	
+}
+
+.tiles-nav__link{
+background-color: transparent !important;
+}
+div.header-user-menu .lia-quilt-row-profile-card .ryx-menu-card-wrapper>a .ryx-card-user-wrapper .ryx-user-login, div.lia-common-slide-menu .lia-quilt-row-profile-card .ryx-menu-card-wrapper>a .ryx-card-user-wrapper .ryx-user-login{
+	color: #FFF !important;
+}
+div.header-user-menu .lia-quilt-row-profile-card .ryx-menu-card-wrapper>a .ryx-card-user-wrapper .ryx-user-rank, div.lia-common-slide-menu .lia-quilt-row-profile-card .ryx-menu-card-wrapper>a .ryx-card-user-wrapper .ryx-user-rank{
+	color: #FFF !important;
+}
+div.header-user-menu .lia-quilt-row-profile-stats .ryx-menu-stats-wrapper .ryx-messages-stats-wrapper a .ryx-messages-icon div, div.lia-common-slide-menu .lia-quilt-row-profile-stats .ryx-menu-stats-wrapper .ryx-messages-stats-wrapper a .ryx-messages-icon div{
+	color: #FFF !important;
+}
+.lia-top-quilt>.lia-quilt-row-header .lia-quilt-row-main-header .header-user-search-lang-wrapper .header-user-menu .UserNavigation .user-navigation-user-profile .view-profile-link, .lia-top-quilt>.lia-quilt-row-header .lia-quilt-row-main-header .header-user-lang-wrapper .header-user-menu .UserNavigation .user-navigation-user-profile .view-profile-link{	
+	color: #FFF !important;
+}
+.lia-top-quilt>.lia-quilt-row-header .lia-quilt-row-main-header .header-user-search-lang-wrapper .header-user-menu .UserNavigation .user-navigation-user-profile::after, .lia-top-quilt>.lia-quilt-row-header .lia-quilt-row-main-header .header-user-lang-wrapper .header-user-menu .UserNavigation .user-navigation-user-profile::after{
+	color: #FFF !important;
+}
+div.header-user-menu .lia-component-common-widget-slide-out-user-menu div.ryx-stats-name, div.header-user-menu a, div.lia-common-slide-menu .lia-component-common-widget-slide-out-user-menu div, div.lia-common-slide-menu a{
+	color: #FFF !important;
+}
+div.header-user-menu .lia-component-common-widget-slide-out-user-menu div, div.header-user-menu a, div.lia-common-slide-menu .lia-component-common-widget-slide-out-user-menu div, div.lia-common-slide-menu a.lia-link-navigation{
+	color: #FFF !important;
+}
+.lia-notification-feed-item .lia-quilt-row .lia-quilt-column-23{
+	background-color: transparent !important;
+}
+#lia-body .lia-page .lia-content .lia-node-activity .lia-message-list .lia-message-view-type-compact .lia-message-view-wrapper .MessageView .lia-message-body-wrapper *, #lia-body .lia-page .lia-content .lia-node-activity .lia-message-list .lia-message-view-type-compact .lia-message-view-wrapper .MessageView .lia-message-body-wrapper *:after, #lia-body .lia-page .lia-content .lia-node-activity .lia-message-list .lia-message-view-type-compact .lia-message-view-wrapper .MessageView .lia-message-body-wrapper *:before{
+	background-color: #212121 !important;
+}
+.ryx-search-form *{
+	background-color:transparent !important;
+	background: transparent !important;
+}
+.lia-panel .lia-view-all .lia-link-navigation, .lia-quilt-column-alley-right .featured-content .lia-view-all .lia-link-navigation{
+	background-color:transparent !important;
+}
+div.header-user-menu .lia-quilt-row-profile-links a.lia-link-navigation:hover, div.lia-common-slide-menu .lia-quilt-row-profile-links a.lia-component-users-action-view-user-profile-modern:hover{
+	background-color: #212121 !important;
+}
+.ryx-search-form-wrapper .lia-component-common-widget-search-form .SearchForm.lia-form-inline .search-input{
+	display: none !important;
+}
+.su__suggestions-box *{
+	background-color: #212121 !important;
+	color: #FFF !important;
+}
+div.header-user-menu .lia-quilt-row-profile-links a.lia-link-navigation:hover, div.lia-common-slide-menu .lia-quilt-row-profile-links div a.lia-link-navigation:hover{
+	background: black !important;
+}
+.SearchForm *{
+	background-color: transparent !important;
+}
+.ryx-search-form{
+	background-color: transparent !important;
+}
+.ryx-search-form-wrapper{
+	background-color: transparent !important;
+}
+.alteryx-custom-slider-wrapper .boxes .slick-arrow{
+	background-color: #212121 !important;
+}
+.alteryx-custom-slider-wrapper .boxes button.slick-arrow{
+	background-color: #212121 !important;
+}
+a {
+	color: #0193cf !important;
+	//color: lightgreen !important;
+}
+div.hover-card-container .profileCard div.inner .js-user-name {
+	background-color: #212121 !important;
+}
+.select__toggle:checked ~ .select__close{
+	background-color: transparent !important;
+}
+.ryx-hero-home-page-wrapper .ryx-search-form{
+	    height: 36px !important;
+}
+#main-menu *{
+	color: #ffffff !important;
+}
+.header-logo-sites *{
+	color: #ffffff !important;
+}
